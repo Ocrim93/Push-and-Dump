@@ -9,9 +9,13 @@ What do you need:
  - Binance Account and API Management to fill the config file.
 
  ++ The script create a Binance Connection through API.
+ 
  ++ Input the crypto for the Push&Dump!
+ 
  ++ Decide the rate of profit ('target') with the associated percentage of quantity (percentage) you want to trade in targets map
+ 
  ++ The script executes a market buy order
+ 
  ++ Finally, OCO Orders will be filled
 
 
