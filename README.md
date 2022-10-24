@@ -27,5 +27,7 @@ Cheers!
 
 -- SOL Wallet --> HTSoVVagBFZ4kq9g6C6eqmwLqAeghAR21ZCSWqDNytAS
 
+-- AVAX C-Wallet --> 0x347c18Ed43451E9bCa88cB51c7dbfBd2Db9328b5
+
 -- ATOM Wallet --> cosmos10tlelp6u5x74u3dw58qezt06wc62mu9eft07ll
 
